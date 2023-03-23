@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "restimizeapi"]
+	path = restimizeapi
+	url = https://github.com/cran/restimizeapi
+	shallow = true
+	registered = true
+[submodule "rGroovy"]
+	path = rGroovy
+	url = https://github.com/cran/rGroovy
+	shallow = true
+	registered = true
+[submodule "ropensecretsapi"]
+	path = ropensecretsapi
+	url = https://github.com/cran/ropensecretsapi
+	shallow = true
+	registered = true
