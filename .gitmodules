@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "restimizeapi"]
-	path = restimizeapi
-	url = https://github.com/cran/restimizeapi
 [submodule "rGroovy"]
 	path = rGroovy
 	url = https://github.com/cran/rGroovy
+[submodule "restimizeapi"]
+	path = restimizeapi
+	url = https://github.com/cran/restimizeapi
 [submodule "ropensecretsapi"]
 	path = ropensecretsapi
 	url = https://github.com/cran/ropensecretsapi
